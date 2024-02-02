@@ -9,4 +9,5 @@ Contact me:
 Email - matthew.hopkins@physics.ox.ac.uk
 
 
-
+Here's a cool photo I took at UC Mt John Observatory:
+![Mountains!](cool_image.jpg)
